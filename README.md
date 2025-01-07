@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="250" src="https://raw.githubusercontent.com/sumdx/sumdx/refs/heads/main/githubBg.png"  />
+</div>
+
+###
+
 <h1 align="left">Sumnath Das Biraz</h1>
 
 ###
@@ -10,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since <br>📚 I'm currently learning NextJs<br>🎯 Goals: <br>🎲 Fun fact: I love to cook whatever it is either food or web application.</p>
+<p align="left">✨ Creating bugs since <br>📚 I'm currently learning NextJs<br>🎯 Goals: To be a Software Developer<br>🎲 Fun fact: I love to cook whatever it is either food or web application.</p>
 
 ###
 
