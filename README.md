@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="380" src="https://raw.githubusercontent.com/sumdx/sumdx/refs/heads/main/profileBG.png"  />
+  <img height="250" src="https://raw.githubusercontent.com/sumdx/sumdx/refs/heads/main/profileBG.png"  />
 </div>
 
 ###
