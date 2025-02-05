@@ -45,7 +45,8 @@
 </div>
 
 ###
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sumdx&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sumdx&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sumdx)](https://git.io/streak-stats)
 
 ###
